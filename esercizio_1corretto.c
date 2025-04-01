@@ -189,7 +189,7 @@ int main() {
                 percentuale(S, n);
                 break;
             case 6:
-                printf("Media: %.2f\n", media_prezzi_quantita_alta(S, n));
+                printf("Media: %f\n", media_prezzi_quantita_alta(S, n));
                 break;
             case 7:
                 visualizza_prodotti_fornitore(S, n);
