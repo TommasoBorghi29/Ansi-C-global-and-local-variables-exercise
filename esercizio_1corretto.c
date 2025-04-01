@@ -206,4 +206,3 @@ int main() {
     } while (scelta != 9);
     return 0;
 }
-#define MAX 100
